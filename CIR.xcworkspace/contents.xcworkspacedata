@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:CIR1.2/CIR1.2.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:CIR1-1-objc/CIR1-1-objc.xcodeproj">
    </FileRef>
    <FileRef
